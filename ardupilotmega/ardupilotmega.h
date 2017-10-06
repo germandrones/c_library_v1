@@ -792,6 +792,7 @@ typedef enum DEVICE_OP_BUSTYPE
 #include "./mavlink_msg_gopro_set_request.h"
 #include "./mavlink_msg_gopro_set_response.h"
 #include "./mavlink_msg_rpm.h"
+#include "./mavlink_msg_local_position_neitzke.h"
 
 // base include
 #include "../common/common.h"
