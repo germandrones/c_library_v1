@@ -795,6 +795,8 @@ typedef enum DEVICE_OP_BUSTYPE
 #include "./mavlink_msg_local_position_neitzke.h"
 #include "./mavlink_msg_initial_check.h"
 #include "./mavlink_msg_ack_gdpilot.h"
+#include "./mavlink_msg_hwp.h"
+
 
 // base include
 #include "../common/common.h"
